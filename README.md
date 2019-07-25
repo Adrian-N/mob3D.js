@@ -1,10 +1,10 @@
+
 # mob3D.js
 
-###What is mob3D.js?
-
-It is a simple script to make embedded 3D Models from GitGub responsive.
-
-###How do I use it?
+mob3D.js is a simple script to make embedded 3D Models from GitHub responsive.
+## Demo
+[adriannowak.net/prod/mob3d/](https://www.adriannowak.net/prod/mob3d/)
+## Installation
 
 1) Download mob3D_v1.0.js and place it in your web directory.
 
@@ -15,10 +15,9 @@ It is a simple script to make embedded 3D Models from GitGub responsive.
 
 3 Open mob3D_v1.0.js and set your username, file path and model width in percentages.
 
-###More Info
+## More Info
 
 <a href="https://help.github.com/articles/3d-file-viewer/" target="_blank" >GitHub 3D File Viewer - User Documentation</a>
+## By
+[adriannowak.net/](https://www.adriannowak.net/)
 
-<a href="http://www.adriannowak.net/" target="_blank" >Author</a>
-
-####<a href="http://adriannowak.net/mob3D.js/Demo/index.html" target="_blank">DEMO</a>
